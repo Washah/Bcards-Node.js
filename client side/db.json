@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "mohamed ",
+      "lastName": "washah",
+      "password": "washah1993",
+      "email": "washah.mo@gmail.com",
+      "phone": "0525797152",
+      "image": "https://cdn-icons-png.flaticon.com/512/1177/1177568.png",
+      "state": "israel",
+      "city": "baqa al-garbia",
+      "housenumber": 101,
+      "country": "ISR",
+      "street": "NO. 12",
+      "zip": 300300,
+      "role": "admin"
+    },
+    {
+      "name": "mohamed2",
+      "lastName": "washah2",
+      "password": "washah1993.2",
+      "email": "washah.mo.2@gmail.com",
+      "role": "business",
+      "phone": "0535797152",
+      "country": "israel",
+      "city": "baqa al-garbia",
+      "housenumber": 101,
+      "street": "NO. 13",
+      "zip": 300300,
+      "image": "https://visualpharm.com/assets/381/Admin-595b40b65ba036ed117d3b23.svg",
+      "state": "israel",
+      "id": 2
+    },
+    {
+      "name": "mohamed3",
+      "lastName": "washah3",
+      "password": "washah1993.3",
+      "email": "washah.mo.3@gmail.com",
+      "role": "business",
+      "phone": "0545797152",
+      "image": "https://cdn-icons-png.flaticon.com/512/1177/1177568.png",
+      "city": "baqa al-garbia",
+      "housenumber": 101,
+      "country": "israel",
+      "street": "NO. 14",
+      "zip": 3003003,
+      "state": "israel",
+      "id": 3
+    },
+    {
+      "name": "mohamed4",
+      "lastName": "washah4",
+      "password": "washah1993.4",
+      "email": "washah.mo.4@gmail.com",
+      "role": "business",
+      "phone": "0555797152",
+      "image": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/user.png",
+      "city": "baqa al-garbia",
+      "housenumber": 101,
+      "country": "israel",
+      "street": "NO. 15",
+      "zip": 300330,
+      "state": "israel",
+      "id": 4
+    },
+    {
+      "name": "mohamed5",
+      "lastName": "washah5",
+      "password": "washah1993.5",
+      "email": "washah.mo.5@gmail.com",
+      "role": "regular",
+      "phone": "0565797152",
+      "image": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/user.png",
+      "city": "baqa al-garbia",
+      "housenumber": 101,
+      "country": "israel",
+      "street": "NO. 32",
+      "zip": 897,
+      "state": "israel",
+      "id": 5
+    }
+  ],
+  "cards": [
+    {
+      "title": "עומר הגנן",
+      "sutitle": "גנן - מומחה לטיפול בצמחים ולטיפוחם",
+      "description": "הוקמה לפני למעלה משני עשורים ומתמחה בתכנון, עיצוב והקמת גינות מעוצבות במרפסות ובגגות ",
+      "phone": "0525797152",
+      "email": "washah.mo@hotmail.com",
+      "web": "https://www.al-gag.co.il/",
+      "image": "https://www.ganplus.co.il/img/gallery/gardener_center.jpg",
+      "state": "https://goo.gl/maps/NJ3L6DqcmKy6nyCy7",
+      "country": "ISR",
+      "city": "עכו",
+      "street": "22",
+      "Hosenumber": 20,
+      "zip": 1411,
+      "id": 1,
+      "owner": "washah.mo@hotmail.com"
+    },
+    {
+      "title": " שמחה - אמיר בלונים",
+      "sutitle": "מארגן הופעות ",
+      "description": "אם אתם מחפשים מופע בידור לכל במשפחה: בקניון, מתנ'ס, בישוב, בקייטנה בקאנטרי הגעתם למקום הנכון .. כשמחפשים מופע בידור לילדים חשוב לוודא שהמופע עם תוכן מקורי, ומעניין וגם שהוא מגיע עם הגברה איכותית, תפאורה ססגונית ושמתאים לקהל ייעד שלכם .. אמיר בלונים עם ניסיון רב בתחום משנת 2003, ומאות אירועים מוצלחים בכל רחבי הארץ ",
+      "phone": "0525797152",
+      "email": "washah.mo@hotmail.com",
+      "web": "https://www.happiness.co.il/blvnim",
+      "image": "https://my-balloons.co.il/wp-content/uploads/2021/07/WhatsApp-Image-2021-12-09-at-12.44.08.jpeg",
+      "state": "https://goo.gl/maps/zzcMZddy2LhN69es8",
+      "country": "ISR",
+      "city": "נצרת",
+      "street": "וייצמן",
+      "Hosenumber": 159,
+      "zip": 106,
+      "id": 2,
+      "owner": "washah.mo@hotmail.com"
+    },
+    {
+      "title": " Somfy משפחת התריסים",
+      "sutitle": "בית ועיצוב",
+      "description": "משפחת התריסים  כוללת מגוון רחב של פתרונות, הנותנים מענה לכל פתח, מחלון במטבח ועד לפתח יציאה מהסלון להשלמת החיבור המושלם בין הבית לעולם. מערכות חדשניות בסגנונות עיצוביים עכשוויים כמו באוהאוס, BOLD ,FINE ,או בלגי להתקנה בביתם",
+      "phone": "0525797152",
+      "email": "washah.mo@hotmail.com",
+      "web": "https://www.somfy.co.il/products/shutters-screens",
+      "image": "https://www.milononline.net/mobile/assets/images.lib/0_92210400_1621801459_752683458.jpg",
+      "state": "https://goo.gl/maps/ENA8uo9vGQJ1L4SZ8",
+      "country": "ISR",
+      "city": "אילת",
+      "street": "ויימצן",
+      "Hosenumber": 189,
+      "zip": 214,
+      "id": 3,
+      "owner": "washah.mo@hotmail.com"
+    },
+    {
+      "owner": "washah.mo@hotmail.com",
+      "title": "The Cleaner המבריקן",
+      "sutitle": "שירותי ניקיון",
+      "description": "כשאתם מגיעים למסקנה שאתם צריכים שירותי ניקיון בכל אזור הצפון או השרון ולא משנה אם מדובר בניקיון הבית, העסק או המפעל, תהליך האיתור של חברה טובה באמת יכול להיות לא מאוד קל. אחרי הכול, יש הרבה מאוד חברות ניקיון שמציעות את שירותיהן, אבל רק אחת היא המקצועית ביותר. חברתנו מספקת שירותי ניקיון בחיפה והסביבה מזה שנים רבות ועובדת עם בעלי מבני ציבור, חברות, משרדים, פרטיים ועוד מגוון רחב של לקוחות.",
+      "phone": "0525797152",
+      "email": "washah.mo@hotmail.com",
+      "web": "https://www.amavrikan.co.il/%D7%94%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99%D7%9D-%D7%A9%D7%9C%D7%A0%D7%95/?gclid=EAIaIQobChMIgNSjrqbOgAMVrICDBx3thQFmEAAYASAAEgI-_fD_BwE",
+      "image": "https://www.kehilot.co.il/wp-content/uploads/2015/05/home210.png",
+      "state": "https://goo.gl/maps/kMTcrrHBwJRfPrSn9",
+      "country": "ISR",
+      "city": "חיפה",
+      "street": " תעשייה 2 ",
+      "Hosenumber": 26,
+      "zip": 1180,
+      "id": 4
+    }
+  ],
+  "favs": [
+    {
+      "userId": 1,
+      "cards": [
+        {
+          "title": " שמחה - אמיר בלונים",
+          "sutitle": "מארגן הופעות ",
+          "description": "אם אתם מחפשים מופע בידור לכל במשפחה: בקניון, מתנ'ס, בישוב, בקייטנה בקאנטרי הגעתם למקום הנכון .. כשמחפשים מופע בידור לילדים חשוב לוודא שהמופע עם תוכן מקורי, ומעניין וגם שהוא מגיע עם הגברה איכותית, תפאורה ססגונית ושמתאים לקהל ייעד שלכם .. אמיר בלונים עם ניסיון רב בתחום משנת 2003, ומאות אירועים מוצלחים בכל רחבי הארץ ",
+          "phone": "0525797152",
+          "email": "washah.mo@hotmail.com",
+          "web": "https://www.happiness.co.il/blvnim",
+          "image": "https://my-balloons.co.il/wp-content/uploads/2021/07/WhatsApp-Image-2021-12-09-at-12.44.08.jpeg",
+          "state": "https://goo.gl/maps/zzcMZddy2LhN69es8",
+          "country": "ISR",
+          "city": "נצרת",
+          "street": "וייצמן",
+          "Hosenumber": 159,
+          "zip": 106,
+          "id": 2,
+          "owner": "washah.mo@hotmail.com"
+        }
+      ],
+      "active": true,
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "cards": [
+        {
+          "title": " שמחה - אמיר בלונים",
+          "sutitle": "מארגן הופעות ",
+          "description": "אם אתם מחפשים מופע בידור לכל במשפחה: בקניון, מתנ'ס, בישוב, בקייטנה בקאנטרי הגעתם למקום הנכון .. כשמחפשים מופע בידור לילדים חשוב לוודא שהמופע עם תוכן מקורי, ומעניין וגם שהוא מגיע עם הגברה איכותית, תפאורה ססגונית ושמתאים לקהל ייעד שלכם .. אמיר בלונים עם ניסיון רב בתחום משנת 2003, ומאות אירועים מוצלחים בכל רחבי הארץ ",
+          "phone": "0525797152",
+          "email": "washah.mo@hotmail.com",
+          "web": "https://www.happiness.co.il/blvnim",
+          "image": "https://my-balloons.co.il/wp-content/uploads/2021/07/WhatsApp-Image-2021-12-09-at-12.44.08.jpeg",
+          "state": "https://goo.gl/maps/zzcMZddy2LhN69es8",
+          "country": "ISR",
+          "city": "נצרת",
+          "street": "וייצמן",
+          "Hosenumber": 159,
+          "zip": 106,
+          "id": 2,
+          "owner": "washah.mo@hotmail.com"
+        }
+      ],
+      "active": true,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "cards": [],
+      "active": true,
+      "id": 7
+    }
+  ]
+}
